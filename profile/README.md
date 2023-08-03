@@ -1,8 +1,8 @@
-## Hi there welcome to Opportrain chatbot 👋
+## Hi there welcome to the Opportrain chatbot 👋
 
 
 
-### The main question that this innovation seeks to explore is: Can chatbots that integrate AI be used to guide students in internship opportunities in Palestine, assisting them in finding and applying for internships in the area??
+### The main question that this innovation seeks to explore is: Can chatbots that integrate AI be effective in assisting students in finding and applying for internships in the area of Palestine??
 
 ### General objectives
 
