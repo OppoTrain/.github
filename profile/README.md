@@ -1,4 +1,4 @@
-## Hi there welcome to the Opportrain chatbot 👋
+## Hi there welcome to the Opportrain bot 👋
 
 
 
@@ -24,7 +24,7 @@ Develop a text-based chatbot, that operates through phones like Telegram, with A
 - Eleen Kmail: AI - NLP  Engineer 
 - Rama Hasiba: AI - NLP  Engineer 
 - Sohaib Arafat: DevOps - Backend Engineer
-- Tassneem Dweikat: Full-Stack Engineer
+- Tasnim Dweikat: Full-Stack Engineer
 - Abd Alsalam Jodallah: Full-Stack Engineer
 
 
