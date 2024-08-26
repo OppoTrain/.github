@@ -23,8 +23,10 @@ Develop a text-based chatbot, that operates through phones like Telegram, with A
 - Zaina Saadeddin: Technical Mentor
 - Eleen Kmail: AI - NLP  Engineer 
 - Rama Hasiba: AI - NLP  Engineer 
-- Sohaib Arafat: DevOps - Backend Engineer
-- Tasnim Dweikat: Full-Stack Engineer
-- Abd Alsalam Jodallah: Full-Stack Engineer
+- Sohaib Arafat: DevOps - Backend Developer
+- Aya Marmash: Frontend Developer
+- Abd Alsalam Jodallah: Frontend Developer
+- Tasnim Dweikat: UI|UX Designer
+
 
 
