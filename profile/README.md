@@ -1,4 +1,4 @@
-## Hi there welcome to the Opportrain bot 👋
+## Hi there welcome to the Opportrain Community 👋
 
 
 
@@ -18,15 +18,17 @@
 
 Develop a text-based chatbot, that operates through phones like Telegram, with AI-integrated technologies, particularly NLP technologies, to support students in finding tech internship opportunities based on the job market and interests. 
 
+Develop Digital Products that match students with internships locally/Globally. 
+
 ### Core team members
 
-- Zaina Saadeddin: Technical Mentor
-- Eleen Kmail: AI - NLP  Engineer 
-- Rama Hasiba: AI - NLP  Engineer 
-- Sohaib Arafat: DevOps - Backend Developer
-- Aya Marmash: Frontend Developer
-- Abd Alsalam Jodallah: Frontend Developer
-- Tasnim Dweikat: UI|UX Designer
+- Zaina Saadeddin: Product Management / Technical Mentor
+- Eleen Kmail: Data/AI   Engineer 
+- Rama Hasiba: Data/AI Engineer 
+- Sohaib Arafat: Backend/DevOps  Developer
+- Aya Marmash: Frontend Engineer
+- Abd Alsalam Jodallah: Frontend Engineer
+- Tasnim Dweikat: UX|UI Designer
 
 
 
